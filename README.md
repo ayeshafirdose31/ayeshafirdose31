@@ -15,7 +15,7 @@
 <h3 align="lest"> Stats: </h3>
 <hr> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshafirdose31&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="ayeshafirdose316" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshafirdose31&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="ayeshafirdose31" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshafirdose31&theme=tokyonight&show_icons=true&locale=en" alt="ayeshafirdose31" /></p>
 
