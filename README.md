@@ -7,7 +7,7 @@
 
 - 📫 How to reach me *ayeshafirdose31@gmail.com*
 
-- 💬 Ask me about *Python and ML algorithm questions*
+- 💬 Ask me about *| Machine Learning | Artificial Intelligence | Deep Learning | NLP | Computer Vision | Tableau | PowerBi | Excel| Google Analytics.*
 
 <h3 align="left">Languages and Tools:</h3>
 <hr>
